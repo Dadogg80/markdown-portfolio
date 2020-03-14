@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I love Bitcoin*
+_I also like Ethereum_
+_But I don't **like**  __Ripple__
